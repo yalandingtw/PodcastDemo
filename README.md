@@ -10,7 +10,7 @@ Using Kotlin / MVVM / koin / coroutine / RxJava2 / ExoPlayer / Epoxy
   
   2. Detail
 	
-  ![MarkDwon Extended Preview](./screen_episode_list.png)
+  ![MarkDwon Extended Preview](./screen_epoisode_list.png)
   
   3. Player
   
