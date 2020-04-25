@@ -1,5 +1,5 @@
 # PodcastDemo
-App demoe for Podcast player.
+App demo for Podcast player.
 
 Using Kotlin / MVVM / koin / coroutine / RxJava2 / ExoPlayer / Epoxy
 
