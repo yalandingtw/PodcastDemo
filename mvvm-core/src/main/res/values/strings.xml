@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WalnuKebbiAndroid</string>
+    <string name="word_train">單句練習</string>
+    <string name="communication_train">對話練習</string>
+    <string name="network_error">網路異常</string>
+    <string name="no_internet">請檢查網路狀態</string>
+</resources>

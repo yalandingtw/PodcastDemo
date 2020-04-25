@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="4dp"
+    tools:background="@android:color/black"
+    tools:layout_height="240dp">
+
+
+    <ImageView
+        android:id="@+id/ivBg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        tools:layout_height="160dp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ivBg"
+        android:layout_marginTop="8dp"
+        android:paddingEnd="8dp"
+        android:textColor="@color/colorDefaultText"
+        android:textSize="14sp"
+        tools:text="科技島讀" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvArtist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvName"
+        android:paddingEnd="8dp"
+        android:textColor="@color/colorSubText"
+        android:textSize="12sp"
+        tools:text="科技島讀" />
+
+</RelativeLayout>

@@ -1,0 +1,2 @@
+rootProject.name='PodcastDemo'
+include ':app', ':mvvm-core'

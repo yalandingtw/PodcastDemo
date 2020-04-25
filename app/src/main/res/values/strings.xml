@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PodcastDemo</string>
+    <string name="title_dashboard">Casts</string>
+    <string name="all_episodes">ALL EPISODES</string>
+</resources>
